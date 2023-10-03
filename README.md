@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pranab-Pratik-Sahoo
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web development and DSA in JAVA
+- 💞️ I’m looking to collaborate on opensource project
 - 📫 How to reach me ...
 
 <!---
