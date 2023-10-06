@@ -11,11 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pratik_sahoo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_sahoo1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranab pratik sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranab pratik sahoo" height="30" width="40" /></a>
-<a href="https://instagram.com/pratik_sahoo1" target="blank"><img align="center" src="![image](https://github.com/Pranab-Pratik-Sahoo/Pranab-Pratik-Sahoo/assets/126647897/6dccc792-c8fd-4e89-87ed-b5bc45107767)
-" alt="pratik_sahoo1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pratik sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pratik sahoo" height="30" width="40" /></a>
+<a href="https://twitter.com/pratik_sahoo1" target="blank"><img align="center" src="![image](https://github.com/Pranab-Pratik-Sahoo/Pranab-Pratik-Sahoo/assets/126647897/fc7ba522-2551-4a3e-8d3f-6005f5dd9ed7)" alt="pratik_sahoo1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranab pratik sahoo" target="blank"><img align="center" src="![image](https://github.com/Pranab-Pratik-Sahoo/Pranab-Pratik-Sahoo/assets/126647897/75c30549-a349-4c38-92fb-7081d1177caa)" alt="pranab pratik sahoo" height="30" width="40" /></a>
+<a href="https://instagram.com/pratik_sahoo1" target="blank"><img align="center" src="![image](https://github.com/Pranab-Pratik-Sahoo/Pranab-Pratik-Sahoo/assets/126647897/3c75eb5b-287a-4429-a159-e3aab47b57ef)" alt="pratik_sahoo1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pratik sahoo" target="blank"><img align="center" src="![image](https://github.com/Pranab-Pratik-Sahoo/Pranab-Pratik-Sahoo/assets/126647897/f65baa24-bc39-4e64-a310-fe943e6e27dd)" alt="pratik sahoo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
