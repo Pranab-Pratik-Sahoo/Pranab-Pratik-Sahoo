@@ -13,7 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/pratik_sahoo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_sahoo1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranab pratik sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranab pratik sahoo" height="30" width="40" /></a>
-<a href="https://instagram.com/pratik_sahoo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik_sahoo1" height="30" width="40" /></a>
+<a href="https://instagram.com/pratik_sahoo1" target="blank"><img align="center" src="![image](https://github.com/Pranab-Pratik-Sahoo/Pranab-Pratik-Sahoo/assets/126647897/6dccc792-c8fd-4e89-87ed-b5bc45107767)
+" alt="pratik_sahoo1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pratik sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pratik sahoo" height="30" width="40" /></a>
 </p>
 
