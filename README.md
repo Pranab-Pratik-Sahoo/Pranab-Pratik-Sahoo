@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Pranab Pratik Sahoo 👋 </h1>
+<h1 align="center">Hey there! 👋 </h1>
 <h3 align="center">🚀 Backend Developer | Java Developer | Open Source ♥ | Devops | Solving DSA problems 🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
